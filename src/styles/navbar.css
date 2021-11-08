@@ -1,0 +1,31 @@
+.nav-div{
+    margin: 20px;
+}
+
+.navbar-light .navbar-brand {
+    color: red;
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.navbar-light .navbar-brand:hover{
+    color: red;
+    font-size: 42px;
+    font-weight: 800;
+}
+
+.heading{
+    font-weight: 300;
+    color: black;
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-size: 27px;
+    margin: 0 20px;
+}

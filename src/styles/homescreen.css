@@ -1,0 +1,47 @@
+.homescreen-div{
+    margin: 100px 10px 0 30px;
+}
+
+.homescreen-div img{
+    height: 500px;
+    width: 590px;
+}
+
+.homescreen-div h1{
+    font-weight: bold;
+    line-height: 1.3;
+    letter-spacing: 3px;
+    font-size: 60px;
+    margin: 50px 0;
+}
+
+.wl{
+    color: red;
+    font-size: 40px;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
+.lrn{
+    font-size: 35px;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+}
+
+.homescreen-div button{
+    background-color: #ff924a;
+    border-radius: 42px;
+    padding: 11px 33px;
+    border: none;
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+.homescreen-div button:hover{
+    background-color: #faa369;
+    border-radius: 42px;
+    padding: 11px 33px;
+    border: none;
+    font-size: 36px;
+    margin-top: 20px;
+}
